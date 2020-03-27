@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Story Writing To-Do
+about: Delivery Story Writing To-Do
 title: NOVA can [tbd]
 labels: Delivery
 assignees: ''
