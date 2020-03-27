@@ -2,7 +2,7 @@
 name: Resource
 about: Providing Contextual Information
 title: ''
-labels: ''
+labels: Resource
 assignees: ''
 
 ---
