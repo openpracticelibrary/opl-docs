@@ -2,7 +2,7 @@
 name: Design Story
 about: Product Story To-Do
 title: ''
-labels: Delivery, Options
+labels: Discovery, Delivery, Options, Foundation
 assignees: ''
 
 ---

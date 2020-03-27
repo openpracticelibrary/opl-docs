@@ -2,7 +2,7 @@
 name: " Spike"
 about: Addition Context Needed
 title: ''
-labels: Spike
+labels: Delivery, Discovery, Foundation, Options, Spike
 assignees: ''
 
 ---
