@@ -1,29 +1,30 @@
 ---
 name: User Story
-about: "\U0001F4DD Story Writing Overview \U0001F4DA"
+about: Story Writing Overview
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-***HOW TO:***
+TO DO (delete this when done): 
+1. Create Short Title w/Persona for Issue Name (above)
+2. Describe Human Need
+3. Define Acceptance Criteria
 
-- [ ] Create Short Title for Issue Name
-Include human who has needs + main details of task or system needs.
+===> template below <====
 
-- [ ] Describe Human Need
-As _______ (persona), I need _______ (value), so that I can _______ (problem / task solved).
+VALUE TO USER:
+As (persona), I need (value), so that I can (problem / task solved).
 
-- [ ] Define Acceptance Criteria (for user stories)
+ACCEPTANCE CRITERIA (as persona):
 **Given** I...
 **When** I... 
 **Then** I...
 **And** I... (if needed)
 
-- [ ] Add Notes
-Include helpful information like reference links, artifacts, other...
+NOTES:
+[Please Include helpful information like reference links, artifacts, and any things needed]
 
-***OTHER:*** 
-Make it fun - https://getemoji.com/
-Syntax - https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+BLOCKERS:
+[Define why something is blocked]
