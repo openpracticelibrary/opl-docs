@@ -1,6 +1,6 @@
 ---
 name: Design Story
-about: Product Story To-Do
+about: Product Backlog To-Do
 title: ''
 labels: Delivery, Discovery, Foundation, Options
 assignees: ''
