@@ -2,7 +2,7 @@
 name: User Story
 about: Story Writing Overview
 title: NOVA can [tbd]
-labels: ''
+labels: Delivery
 assignees: ''
 
 ---
