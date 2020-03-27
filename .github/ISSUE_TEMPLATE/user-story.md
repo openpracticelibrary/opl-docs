@@ -1,20 +1,21 @@
 ---
 name: User Story
 about: Story Writing Overview
-title: ''
+title: NOVA can [tbd]
 labels: ''
 assignees: ''
 
 ---
 
-TO DO (delete this when done): 
-1. Create Short Title w/Persona for Issue Name (above)
-2. Describe Human Need
-3. Define Acceptance Criteria
+TO DO:
+1. Create Short Description w/Persona Name for Issue Title (above)
+2. Write Story in Template Below
+3. Define Value to User & Acceptance Criteria
+4. Add Notes & Blockers
+5. Add Labels, Projects & Milestone
+6. Delete this to-do list before Submitting 
 
-===> template below <====
-
-VALUE TO USER:
+USER NEED:
 As (persona), I need (value), so that I can (problem / task solved).
 
 ACCEPTANCE CRITERIA (as persona):
